@@ -1,0 +1,8 @@
+Shelf Note / Base review note
+
+This repository contains public project proof for a Base dApp.
+Build ID: 6a09aa9abe037e1a864d98ad
+Builder Code: bc_qge6t8bo
+Live Demo: https://shelf-note.vercel.app
+
+No private operational material is stored in this note.
